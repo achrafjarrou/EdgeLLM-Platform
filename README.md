@@ -145,7 +145,7 @@
 ### Installation
 ```powershell
 # 1. Clone repository
-git clone https://github.com/your-username/EdgeLLM-Platform
+git clone https://github.com/achrafjarrou/EdgeLLM-Platform
 cd EdgeLLM-Platform
 
 # 2. Install dependencies
