@@ -1,0 +1,12 @@
+﻿__pycache__/
+*.py[cod]
+.env
+venv/
+*.log
+*.db
+*.sqlite
+.vscode/
+.idea/
+*.swp
+data/benchmark_results/*.csv
+!data/benchmark_results/.gitkeep
