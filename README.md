@@ -42,7 +42,7 @@
 ```
 ┌─────────────────────────────────────────────────────────────────┐
 │                    EDGELLM PLATFORM                              │
-│                  (Your Infrastructure)                           │
+│                                            │
 ├─────────────────────────────────────────────────────────────────┤
 │                                                                  │
 │  ┌──────────────────────────────────────────────────────────┐  │
@@ -516,7 +516,6 @@ def route_request(query: str, user_context: dict) -> str:
 - ✅ **Support:** 24/7 enterprise support available
 - ✅ **Consulting:** Architecture review, optimization
 
-**Contact:** [Your Email] | [LinkedIn] | [Cal.com booking link]
 
 ---
 
@@ -542,7 +541,7 @@ MIT License - See [LICENSE](LICENSE) file
 
 ## 🌟 Built By
 
-**[Your Name]** - AI Infrastructure Engineer  
+Achraf Jarrou- AI Infrastructure Engineer  
 📧 achraf.jarrou2002@gmail.com  
 💼 https://www.linkedin.com/in/achraf-jarrou-4394bb342/ 
 🐙 https://github.com/achrafjarrou
