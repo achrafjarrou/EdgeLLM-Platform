@@ -40,9 +40,8 @@
 
 ## 🏗️ Architecture
 ```
-<p align="center">
-<img src="https://github.com/user-attachments/assets/36d4d5fb-d724-4eeb-a949-c09437d09aa6" alt="Architecture" width="100%">
-</p>
+
+![arch](https://github.com/user-attachments/assets/5aa60f0d-cc16-47d8-8cb4-e32d43e6802c)
 
 ```
 
