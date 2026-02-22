@@ -40,8 +40,9 @@
 
 ## 🏗️ Architecture
 ```
-![Architecture EdgeLLM](https://github.com/user-attachments/assets/36d4d5fb-d724-4eeb-a949-c09437d09aa6)
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/36d4d5fb-d724-4eeb-a949-c09437d09aa6" alt="EdgeLLM Architecture" width="100%">
+</p>
 
 ```
 
