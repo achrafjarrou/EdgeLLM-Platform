@@ -40,8 +40,8 @@
 
 ## 🏗️ Architecture
 ```
+<img width="1409" height="463" alt="arch" src="https://github.com/user-attachments/assets/36d4d5fb-d724-4eeb-a949-c09437d09aa6" />
 
-<img width="2160" height="849" alt="diagram-export-22-02-2026-22_59_36" src="https://github.com/user-attachments/assets/37502e51-cce0-4452-b0ce-664106d97b57" />
 
 ```
 
